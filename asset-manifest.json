@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DatePicker.git/static/css/main.aedf7056.css",
+    "main.js": "/DatePicker.git/static/js/main.031caa17.js",
+    "static/js/453.4e372407.chunk.js": "/DatePicker.git/static/js/453.4e372407.chunk.js",
+    "index.html": "/DatePicker.git/index.html",
+    "main.aedf7056.css.map": "/DatePicker.git/static/css/main.aedf7056.css.map",
+    "main.031caa17.js.map": "/DatePicker.git/static/js/main.031caa17.js.map",
+    "453.4e372407.chunk.js.map": "/DatePicker.git/static/js/453.4e372407.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aedf7056.css",
+    "static/js/main.031caa17.js"
+  ]
+}
